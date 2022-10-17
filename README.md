@@ -1,7 +1,7 @@
 # Motudy
 모터디 프로젝트
 
-### 노션 기록일지
+### 모터디 개발일지 페이지
 [노션기록일지](https://shell-mint-315.notion.site/c8523970df1847f586c9ad9c29fe2352)
 
 #### ERD
