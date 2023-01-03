@@ -29,6 +29,7 @@ IT / 코딩테스트 / 면접 등의 주제가 주가 된다.
 
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=black"/>
 
+
 ### 논리 ERD
 ![모터디ERD](https://user-images.githubusercontent.com/77195486/196110386-e558f9ba-1ba0-40ae-a54f-ecb7d0c43e44.png)
 
@@ -40,6 +41,7 @@ https://github.com/2022PASSION-Project/Motudy-Develop
 
 #### 메인 페이지
 ![메인페이지](https://user-images.githubusercontent.com/77195486/198879277-5adcf84b-b05e-4cc1-81a6-57049a32e538.png)
+
 
 #### 스터디 페이지
 ![스터디](https://user-images.githubusercontent.com/77195486/198879428-77c9f757-ac6d-4b32-a9bf-6fc2ee686e6e.png)
