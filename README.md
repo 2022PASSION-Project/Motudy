@@ -12,6 +12,9 @@ IT / 코딩테스트 / 면접 등의 주제가 주가 된다.
 > 코로나로 인한 비대면 시대 주변에 같이 개발 공부할 인원이 없었습니다.
 그래서 인원을 구하기 위해 여러 커뮤니티를 찾아다녔지만, 막상 가보면 대학생 외에도 다양한 분야의 사람들이 많아서 같이 IT 관련 스터디를 하며 외로움을 달래는 ```스터디 구인 서비스```를 만들자고 마음먹었습니다.
 
+## 개발 기간
+22.09 ~ 22.11 (3개월)
+
 # 사용한 기술
 ## Front-end
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
