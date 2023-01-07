@@ -15,9 +15,6 @@ IT / 코딩테스트 / 면접 등의 주제가 주가 된다.
 ## 개발 기간
 22.09 ~ 22.11 (3개월)
 
-## 개발 인원
-프론트 2명, 백엔드 2명
-
 # 사용한 기술
 ## Front-end
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
